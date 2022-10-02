@@ -3,6 +3,7 @@
 namespace Php\Package\Tests;
 
 use PHPUnit\Framework\TestCase;
+
 use function Php\Package\Utils\reverseString;
 
 class UtilsTest extends TestCase
